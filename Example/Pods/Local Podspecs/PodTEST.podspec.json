@@ -1,0 +1,22 @@
+{
+  "name": "PodTEST",
+  "version": "0.1.0",
+  "summary": "A short description of PodTEST.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/juliodieste/PodTEST",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "juliodieste": "julio.dieste.dieste.sa@everis.com"
+  },
+  "source": {
+    "git": "https://github.com/juliodieste/PodTEST.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTEST/Classes/**/*"
+}
