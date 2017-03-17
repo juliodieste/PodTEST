@@ -11,6 +11,6 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/juliodieste/PodTEST.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/juliodieste'
   s.ios.deployment_target = '8.0'
-  s.source_files = 'PodTEST/Classes/*'
-  s.public_header_files = 'Pod/Classes/*.h'
+  s.source_files = 'Classes/*'
+  s.public_header_files = 'Classes/*.h'
 end
